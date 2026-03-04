@@ -1,7 +1,7 @@
 """
 =============================================================
   FILTRADOR AUTOMÁTICO DE IMÁGENES DE INSTRUMENTOS
-  Soporta: guitar, accordion, drums (y cualquier otro)
+  Soporta: guitar, accordion, drums
   Versión: open-clip-torch
 =============================================================
 
